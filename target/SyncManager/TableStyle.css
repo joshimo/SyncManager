@@ -1,0 +1,52 @@
+body
+{
+    background: lightgrey;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+div
+{
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+    padding: 5px;
+    border: 4px solid orange;
+}
+table
+{
+    width: 100%;
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+th
+{
+    height: 30px;
+    border: 2px solid black;
+    background: orange;
+}
+td
+{
+    border-top: 1px solid grey;
+    border-bottom: 1px solid grey;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    padding-left: 4px;
+    padding-right: 4px;
+    background: darkkhaki;
+}
+.tdmerges
+{
+    border: 2px solid black;
+    text-align: center;
+    padding-left: 4px;
+    padding-right: 4px;
+    background: darkkhaki;
+}
+.tdref
+{
+    border: none;
+    vertical-align: center;
+    padding-left: 4px;
+    padding-right: 4px;
+    background: lightgray;
+}
